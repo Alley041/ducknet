@@ -1,9 +1,0 @@
-﻿//profile-title: xGoSpecialWays
-//profile-update-interval: 24
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/xgo
-//profile-web-page-url: https://t.me/xgo
-
-#warp://162.159.195.189:854/?ifp=5-10&ifps=40-100&ifpd=30-200#@xGo[SpecialWays#1]
-#warp://162.159.195.193:1070/?ifp=20-30&ifps=40-100&ifpd=30-200#@xGo[SpecialWays#2]
-#warp://188.114.99.16:1070/?ifp=5-10&ifps=40-100&ifpd=30-200#@xGo[SpecialWays#3]
